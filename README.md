@@ -1,2 +1,2 @@
 # CSE-430-Compiler-Lab
-This repo will contain all the code learn through this lab
+This repository is for storing all the code related to Compiler Design
